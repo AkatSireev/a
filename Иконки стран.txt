@@ -1,0 +1,21 @@
+США	https://cdn-icons-png.flaticon.com/512/168/168174.png
+Россия/СССР	https://cdn-icons-png.flaticon.com/512/168/168112.png
+Бразилия	https://cdn-icons-png.flaticon.com/512/164/164920.png
+Мексика	https://cdn-icons-png.flaticon.com/512/168/168068.png
+Польша	https://cdn-icons-png.flaticon.com/512/168/168109.png
+Канада	https://cdn-icons-png.flaticon.com/512/164/164930.png
+Австралия	https://cdn-icons-png.flaticon.com/512/164/164903.png
+Япония	https://cdn-icons-png.flaticon.com/512/168/168038.png
+Индия	https://cdn-icons-png.flaticon.com/512/168/168028.png
+Франция	https://cdn-icons-png.flaticon.com/512/168/168005.png
+ЮАР	https://cdn-icons-png.flaticon.com/512/168/168136.png
+Колумбия	https://cdn-icons-png.flaticon.com/512/317/317153.png
+Сингапур	https://cdn-icons-png.flaticon.com/512/168/168128.png
+Китай	https://cdn-icons-png.flaticon.com/512/164/164938.png
+Малайзия	https://cdn-icons-png.flaticon.com/512/2151/2151402.png
+Германия	https://cdn-icons-png.flaticon.com/512/168/168010.png
+Тайланд	https://cdn-icons-png.flaticon.com/512/168/168153.png
+Индонезия	https://cdn-icons-png.flaticon.com/512/3013/3013982.png
+Филиппины	https://cdn-icons-png.flaticon.com/512/317/317279.png
+Южная Корея	https://i.imgur.com/On46PvM.png
+ОАЭ	https://cdn-icons-png.flaticon.com/512/168/168169.png
